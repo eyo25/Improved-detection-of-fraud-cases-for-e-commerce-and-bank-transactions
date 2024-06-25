@@ -1,1 +1,2 @@
+mlruns/0/0493000c4326437fb405a198102a1eee/artifacts/Random[[:space:]]Forest[[:space:]]-[[:space:]]Fraud[[:space:]]Data/model.pkl filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
