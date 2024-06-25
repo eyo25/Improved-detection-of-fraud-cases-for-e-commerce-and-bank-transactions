@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/a458d22b0f244b37919cda0223bd31c5/artifacts
+end_time: 1719107551873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a458d22b0f244b37919cda0223bd31c5
+run_name: debonair-hawk-858
+run_uuid: a458d22b0f244b37919cda0223bd31c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719107501017
+status: 3
+tags: []
+user_id: eyosi

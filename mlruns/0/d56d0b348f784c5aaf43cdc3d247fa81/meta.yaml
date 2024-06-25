@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/d56d0b348f784c5aaf43cdc3d247fa81/artifacts
+end_time: 1719251578265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d56d0b348f784c5aaf43cdc3d247fa81
+run_name: flawless-finch-295
+run_uuid: d56d0b348f784c5aaf43cdc3d247fa81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719251555767
+status: 3
+tags: []
+user_id: eyosi

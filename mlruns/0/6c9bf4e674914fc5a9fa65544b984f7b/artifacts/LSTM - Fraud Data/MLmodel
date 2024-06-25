@@ -1,0 +1,20 @@
+artifact_path: LSTM - Fraud Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 510687
+model_uuid: 50819a112d0f4ba78f50a165c305d788
+run_id: 6c9bf4e674914fc5a9fa65544b984f7b
+utc_time_created: '2024-06-25 09:35:12.904669'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/0169dc6cd14b466db000ed28a24f30cc/artifacts
+end_time: 1719108189525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0169dc6cd14b466db000ed28a24f30cc
+run_name: skittish-bass-439
+run_uuid: 0169dc6cd14b466db000ed28a24f30cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719108184777
+status: 3
+tags: []
+user_id: eyosi

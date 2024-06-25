@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/6c9bf4e674914fc5a9fa65544b984f7b/artifacts
+end_time: 1719308122354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c9bf4e674914fc5a9fa65544b984f7b
+run_name: burly-hare-105
+run_uuid: 6c9bf4e674914fc5a9fa65544b984f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719308109005
+status: 3
+tags: []
+user_id: eyosi

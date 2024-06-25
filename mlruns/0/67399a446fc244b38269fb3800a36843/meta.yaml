@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/67399a446fc244b38269fb3800a36843/artifacts
+end_time: 1719296801943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67399a446fc244b38269fb3800a36843
+run_name: sassy-colt-308
+run_uuid: 67399a446fc244b38269fb3800a36843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719296762205
+status: 3
+tags: []
+user_id: eyosi

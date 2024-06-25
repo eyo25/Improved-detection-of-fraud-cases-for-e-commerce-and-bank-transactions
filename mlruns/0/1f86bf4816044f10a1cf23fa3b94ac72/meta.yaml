@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/1f86bf4816044f10a1cf23fa3b94ac72/artifacts
+end_time: 1719248348931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f86bf4816044f10a1cf23fa3b94ac72
+run_name: tasteful-tern-145
+run_uuid: 1f86bf4816044f10a1cf23fa3b94ac72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719248343344
+status: 3
+tags: []
+user_id: eyosi

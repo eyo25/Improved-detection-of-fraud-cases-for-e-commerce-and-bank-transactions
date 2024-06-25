@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/c2b437e7abc04e9c8e319f7ef8597857/artifacts
+end_time: 1719247466525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b437e7abc04e9c8e319f7ef8597857
+run_name: trusting-calf-418
+run_uuid: c2b437e7abc04e9c8e319f7ef8597857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719247442450
+status: 3
+tags: []
+user_id: eyosi

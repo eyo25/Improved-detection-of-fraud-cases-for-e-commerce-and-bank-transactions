@@ -1,0 +1,20 @@
+artifact_path: Random Forest - Fraud Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 151077959
+model_uuid: 96f0236edcc94669878279a23f713906
+run_id: f9a21ad0dccd489f976261317cf87f19
+utc_time_created: '2024-06-23 02:49:13.011394'

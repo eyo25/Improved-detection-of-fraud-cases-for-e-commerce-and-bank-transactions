@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/f9a21ad0dccd489f976261317cf87f19/artifacts
+end_time: 1719110967508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9a21ad0dccd489f976261317cf87f19
+run_name: charming-cow-273
+run_uuid: f9a21ad0dccd489f976261317cf87f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719110952138
+status: 3
+tags: []
+user_id: eyosi

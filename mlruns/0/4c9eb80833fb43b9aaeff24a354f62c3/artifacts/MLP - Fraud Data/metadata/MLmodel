@@ -1,0 +1,20 @@
+artifact_path: MLP - Fraud Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 47917
+model_uuid: 78bcc68c83944b97b0ae1d9052f65c64
+run_id: 4c9eb80833fb43b9aaeff24a354f62c3
+utc_time_created: '2024-06-23 03:44:37.648711'

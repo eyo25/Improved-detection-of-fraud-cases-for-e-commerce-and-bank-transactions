@@ -1,0 +1,20 @@
+artifact_path: Random Forest - Credit Card Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 2607932
+model_uuid: fa7d1a7a203348eb98b94e59fca879d2
+run_id: 3f32379528944a13ab9affbdf28b43f9
+utc_time_created: '2024-06-24 16:51:04.313360'

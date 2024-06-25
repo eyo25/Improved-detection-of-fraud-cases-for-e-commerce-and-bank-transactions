@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/4c9eb80833fb43b9aaeff24a354f62c3/artifacts
+end_time: 1719114282372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c9eb80833fb43b9aaeff24a354f62c3
+run_name: welcoming-tern-371
+run_uuid: 4c9eb80833fb43b9aaeff24a354f62c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719114277446
+status: 3
+tags: []
+user_id: eyosi

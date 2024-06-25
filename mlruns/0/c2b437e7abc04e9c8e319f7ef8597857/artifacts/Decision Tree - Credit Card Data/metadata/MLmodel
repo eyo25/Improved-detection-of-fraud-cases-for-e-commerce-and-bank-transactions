@@ -1,0 +1,20 @@
+artifact_path: Decision Tree - Credit Card Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 26891
+model_uuid: b4549c7abe3741a08ca476f3b3c0c99d
+run_id: c2b437e7abc04e9c8e319f7ef8597857
+utc_time_created: '2024-06-24 16:44:03.061457'

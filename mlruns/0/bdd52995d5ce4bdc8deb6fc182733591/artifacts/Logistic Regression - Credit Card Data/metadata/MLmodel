@@ -1,0 +1,20 @@
+artifact_path: Logistic Regression - Credit Card Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 1216
+model_uuid: ab63a9f7ce8e4c50beb41e4b82cccf2e
+run_id: bdd52995d5ce4bdc8deb6fc182733591
+utc_time_created: '2024-06-24 17:30:53.642359'

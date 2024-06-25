@@ -1,0 +1,20 @@
+artifact_path: Decision Tree - Fraud Data
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 1542793
+model_uuid: 42d006d993b44643b48c60d951c2a443
+run_id: 6c26bfce00fb45ad8d8ee451aa126778
+utc_time_created: '2024-06-23 01:53:10.821198'

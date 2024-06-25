@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/49aab185279f4a9b8b7fb8900262e477/artifacts
+end_time: 1719114424201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49aab185279f4a9b8b7fb8900262e477
+run_name: fearless-foal-783
+run_uuid: 49aab185279f4a9b8b7fb8900262e477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719114410745
+status: 3
+tags: []
+user_id: eyosi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eyosi/OneDrive/Desktop/10Acadamy/week8/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/mlruns/0/37ee690417f44ad2b0b2c8aa58261b7a/artifacts
+end_time: 1719251926275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37ee690417f44ad2b0b2c8aa58261b7a
+run_name: sedate-moose-848
+run_uuid: 37ee690417f44ad2b0b2c8aa58261b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719251918094
+status: 3
+tags: []
+user_id: eyosi
